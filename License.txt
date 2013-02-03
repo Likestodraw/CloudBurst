@@ -1,0 +1,4 @@
+In a nutshell, I take no responsibility for what happens with the software. 
+You don't have to give credit for using CloudBurst, but if you make something really cool using it, it would be neat to find out about it or to have credit given. It's completely optional.
+The version (basically the same as this one) of CloudBurst included in NexusBB is licensed under the license NexusBB is under (which is a modified MIT right now). If you don't want to give credit, just use this one.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
